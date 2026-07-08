@@ -26,4 +26,12 @@ Submitting my leetcode solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/saranshdutta/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/saranshdutta/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/saranshdutta/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
