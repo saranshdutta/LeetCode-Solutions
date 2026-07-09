@@ -30,6 +30,7 @@ Submitting my leetcode solutions
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/saranshdutta/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [2652-sum-multiples](https://github.com/saranshdutta/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 ## Simulation
 |  |
 | ------- |
