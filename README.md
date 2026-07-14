@@ -31,6 +31,7 @@ Submitting my leetcode solutions
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/saranshdutta/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [2235-add-two-integers](https://github.com/saranshdutta/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/saranshdutta/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/saranshdutta/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 ## Simulation
