@@ -9,6 +9,7 @@ Submitting my leetcode solutions
 | [0001-two-sum](https://github.com/saranshdutta/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/saranshdutta/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/saranshdutta/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0118-pascals-triangle](https://github.com/saranshdutta/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/saranshdutta/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [3024-type-of-triangle](https://github.com/saranshdutta/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 ## Hash Table
@@ -47,4 +48,8 @@ Submitting my leetcode solutions
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/saranshdutta/LeetCode-Solutions/tree/master/0031-next-permutation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/saranshdutta/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
